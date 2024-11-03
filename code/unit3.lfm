@@ -1,0 +1,8 @@
+object Form3: TForm3
+  Left = 240
+  Height = 240
+  Top = 145
+  Width = 320
+  Caption = 'Perfil do Aluno'
+  LCLVersion = '2.2.0.4'
+end

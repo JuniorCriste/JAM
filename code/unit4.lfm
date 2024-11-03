@@ -1,0 +1,8 @@
+object Form4: TForm4
+  Left = 240
+  Height = 240
+  Top = 145
+  Width = 320
+  Caption = 'Registrar Ocorrência'
+  LCLVersion = '2.2.0.4'
+end

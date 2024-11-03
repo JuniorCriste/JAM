@@ -1,0 +1,8 @@
+object Form5: TForm5
+  Left = 240
+  Height = 240
+  Top = 145
+  Width = 320
+  Caption = 'Perfil de Turmas'
+  LCLVersion = '2.2.0.4'
+end
