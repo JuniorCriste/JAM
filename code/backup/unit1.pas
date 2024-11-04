@@ -5,10 +5,18 @@ unit Unit1;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, StdCtrls;
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, StdCtrls,
+  ComCtrls;
 
 type
+
+  { TForm1 }
+
   TForm1 = class(TForm)
+    Edit1: TEdit;
+    Panel1: TPanel;
+    Panel2: TPanel;
+    procedure Panel1Click(Sender: TObject);
   private
 
   public
@@ -21,6 +29,13 @@ var
 implementation
 
 {$R *.lfm}
+
+{ TForm1 }
+
+procedure TForm1.Panel1Click(Sender: TObject);
+begin
+
+end;
 
 end.
 
