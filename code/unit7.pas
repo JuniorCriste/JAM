@@ -5,7 +5,7 @@ unit Unit7;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs;
+  Classes, SysUtils, PReport, Forms, Controls, Graphics, Dialogs;
 
 type
   TForm7 = class(TForm)

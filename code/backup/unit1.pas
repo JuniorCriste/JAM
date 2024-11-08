@@ -13,7 +13,9 @@ type
   { TForm1 }
 
   TForm1 = class(TForm)
+    Button1: TButton;
     Edit1: TEdit;
+    Label1: TLabel;
     Panel1: TPanel;
     Panel2: TPanel;
     procedure Panel1Click(Sender: TObject);
